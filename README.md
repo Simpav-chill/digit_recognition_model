@@ -14,7 +14,7 @@ Libraries:
 - matplotlib
 
 # Launch
-To launch the code you used to have installed [Anaconda distribution or miniconda](https://www.anaconda.com/download/success?reg=skipped).
+To launch the code you must have installed [Anaconda distribution or miniconda](https://www.anaconda.com/download/success?reg=skipped).
 
 ## Clone the repository
 
